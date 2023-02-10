@@ -1,4 +1,4 @@
-package org.jannsen.request;
+package org.jannsen.mctoken.client.request;
 
 import com.google.api.client.http.ByteArrayContent;
 import com.google.api.client.http.HttpContent;

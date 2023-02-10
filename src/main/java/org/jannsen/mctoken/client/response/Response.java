@@ -1,7 +1,7 @@
-package org.jannsen.response;
+package org.jannsen.mctoken.client.response;
 
-import org.jannsen.response.status.ErrorStatus;
-import org.jannsen.response.status.Status;
+import org.jannsen.mctoken.client.response.status.ErrorStatus;
+import org.jannsen.mctoken.client.response.status.Status;
 
 public class Response {
 

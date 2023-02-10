@@ -1,10 +1,10 @@
-package org.jannsen.builder;
+package org.jannsen.mctoken.client.builder;
 
 import com.google.api.client.http.GenericUrl;
 import com.google.api.client.http.HttpRequest;
 import com.google.api.client.http.HttpRequestFactory;
 import com.google.api.client.http.javanet.NetHttpTransport;
-import org.jannsen.request.Request;
+import org.jannsen.mctoken.client.request.Request;
 
 import javax.annotation.Nonnull;
 import java.io.IOException;

@@ -1,10 +1,10 @@
-package org.jannsen;
+package org.jannsen.mctoken.client;
 
 import com.google.api.client.http.HttpMethods;
 import org.jannsen.mcreverse.api.entity.akamai.SensorToken;
-import org.jannsen.request.TokenRequest;
-import org.jannsen.response.Response;
-import org.jannsen.response.TokenResponse;
+import org.jannsen.mctoken.client.request.TokenRequest;
+import org.jannsen.mctoken.client.response.Response;
+import org.jannsen.mctoken.client.response.TokenResponse;
 
 import javax.annotation.Nonnull;
 

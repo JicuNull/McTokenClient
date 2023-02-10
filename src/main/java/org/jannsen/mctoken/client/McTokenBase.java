@@ -1,13 +1,13 @@
-package org.jannsen;
+package org.jannsen.mctoken.client;
 
 import com.google.api.client.http.HttpRequest;
 import com.google.api.client.http.HttpResponse;
 import com.google.gson.Gson;
-import org.jannsen.builder.HttpBuilder;
-import org.jannsen.request.Request;
-import org.jannsen.response.Response;
-import org.jannsen.response.status.ErrorStatus;
-import org.jannsen.response.status.Status;
+import org.jannsen.mctoken.client.builder.HttpBuilder;
+import org.jannsen.mctoken.client.request.Request;
+import org.jannsen.mctoken.client.response.Response;
+import org.jannsen.mctoken.client.response.status.ErrorStatus;
+import org.jannsen.mctoken.client.response.status.Status;
 
 import java.io.IOException;
 import java.lang.reflect.InvocationTargetException;

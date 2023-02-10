@@ -1,4 +1,4 @@
-package org.jannsen.response.status;
+package org.jannsen.mctoken.client.response.status;
 
 public class Status {
 
